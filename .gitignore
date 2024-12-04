@@ -1,0 +1,77 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+*.out
+*.err
+
+# Configurations
+*.cfg
+*.ini
+*.toml
+
+# Data files (customize as needed)
+data/
+*.csv
+*.tsv
+*.dat
+*.data
+*.h5
+*.pickle
+*.parquet
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled code
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Testing
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+*.temp
+~$*
+*.orig
+
+# Others
+*.ipynb_checkpoints
+*.pytest_cache
